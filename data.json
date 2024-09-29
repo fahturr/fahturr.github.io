@@ -1,0 +1,73 @@
+{
+    "food": [
+        {
+            "name": "Hachi Grill",
+            "image": "haci_grill.png",
+            "trend": "up"
+        },
+        {
+            "name": "Akak Burger",
+            "image": "akak_burger.jpg"
+        },
+        {
+            "name": "Ciz n Chic",
+            "image": "ciz_n_chic.jpg",
+            "trend": "up"
+        },
+        {
+            "name": "BBQ Big Mountain Boys Burger",
+            "image": "bmb_burger.jpeg",
+            "trend": "down"
+        },
+        {
+            "name": "Blenger Burger",
+            "image": "blenger_burger.jpeg",
+            "trend": "down"
+        },
+        {
+            "name": "Kue Kamir"
+        },
+        {
+            "name": "Donat Bantal Limo"
+        }
+    ],
+    "kupi": [
+        {
+            "name": "Toko Tahilalats",
+            "image": "toko_tahilalats.jpg",
+            "trend": "up"
+        },
+        {
+            "name": "Calf",
+            "image": "calf_coffee.jpeg",
+            "trend": "up"
+        },
+        {
+            "name": "Kopi Kenangan",
+            "image": "kopi_kenangan.png",
+            "trend": "up"
+        },
+        {
+            "name": "Fore",
+            "image": "fore_coffee.png"
+        },
+        {
+            "name": "Yummy Choice Coffee Gold",
+            "image": "yummy_choice_coffee_gold.jpeg"
+        }
+    ],
+    "matcha": [
+        {
+            "name": "Feel Matcha"
+        },
+        {
+            "name": "Leton Coffee"
+        },
+        {
+            "name": "Point Coffee"
+        },
+        {
+            "name": "Thai Yo"
+        }
+    ]
+}
